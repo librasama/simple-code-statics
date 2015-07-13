@@ -8,6 +8,9 @@
     "statistics",
     "code"
   ],
+  "scripts": {
+    "start": "node ./lib/statics.js"
+  },
   "url":"https://github.com/librasama/simple-code-statics",
   "repository":{
     "type":"git",
@@ -15,7 +18,7 @@
   },
   "author": "Akitech",
   "license": "MIT",
-  "dependencies":[
+  "dependencies":
     {"line-reader":"~0.2.3"}
-  ]
+
 }

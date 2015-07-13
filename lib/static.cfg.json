@@ -38,7 +38,16 @@
       "dir": [
         "views"
       ]
+    },
+    {
+      "extentsion": [
+        "json", "js"
+      ],
+      "dir": [
+        "lib"
+      ]
     }
+
   ],
   "logPath" : "logs"
 }
