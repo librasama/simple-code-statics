@@ -1,0 +1,21 @@
+{
+  "name": "simple-code-statics",
+  "version": "0.1.0",
+  "description": "Simple Project code's line statistics tool",
+  "directories":{"lib":"./lib"},
+  "main": "./lib/statics",
+  "keywords": [
+    "statistics",
+    "code"
+  ],
+  "url":"https://github.com/librasama/simple-code-statics",
+  "repository":{
+    "type":"git",
+    "url":"https://librasama@github.com/librasama/simple-code-statics.git"
+  },
+  "author": "Akitech",
+  "license": "MIT",
+  "dependencies":[
+    {"line-reader":"~0.2.3"}
+  ]
+}

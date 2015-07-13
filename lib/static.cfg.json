@@ -1,0 +1,44 @@
+{
+  "scope": [
+    {
+      "extentsion": [
+        "less"
+      ],
+      "dir": [
+        "public/stylesheets"
+      ],
+      "excludeFile": [
+        "public/stylesheets/3part/full-screen.css"
+      ]
+    },
+    {
+      "extentsion": [
+        "json"
+      ],
+      "dir": [
+        "public/data"
+      ]
+    },
+    {
+      "extentsion": [
+        "js"
+      ],
+      "dir": [
+        "public/javascripts",
+        "routes"
+      ],
+      "excludeDir": [
+        "public/javascripts/3part"
+      ]
+    },
+    {
+      "extentsion": [
+        "jade"
+      ],
+      "dir": [
+        "views"
+      ]
+    }
+  ],
+  "logPath" : "logs"
+}
